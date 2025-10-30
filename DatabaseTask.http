@@ -1,0 +1,6 @@
+@DatabaseTask_HostAddress = http://localhost:5291
+
+GET {{DatabaseTask_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
